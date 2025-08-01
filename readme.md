@@ -1,3 +1,8 @@
+![Course](https://img.shields.io/badge/Course-ETH_Kipu-blue)
+![Mode](https://img.shields.io/badge/Mode-Online-lightgrey)
+![Developer](https://img.shields.io/badge/Developer-3lisa-purple)
+![State](https://img.shields.io/badge/State-Active-brightgreen)
+
 # 🛠️ GradeMaster_v3 Challenge Solution (Reentrancy Attack)
 
 ## 📝 Challenge Description  
@@ -68,3 +73,9 @@ The **Grader5** contract on Sepolia network contains a vulnerability that allows
 
 🎉 **Success Criteria:**  
 Your name should appear in the contract's grade registry with counter = 2
+
+---
+
+## 🧠 Author
+
+Developed by [@3lisa](https://github.com/mariaelisaaraya) as part of the ETH Kipu course.
