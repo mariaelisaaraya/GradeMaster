@@ -1,7 +1,7 @@
 ![Course](https://img.shields.io/badge/Course-ETH_Kipu-blue)
 ![Mode](https://img.shields.io/badge/Mode-Online-lightgrey)
 ![Developer](https://img.shields.io/badge/Developer-3lisa-purple)
-![State](https://img.shields.io/badge/State-Active-brightgreen)
+![State](https://img.shields.io/badge/State-Approved-brightgreen)
 
 # 🛠️ GradeMaster_v3 Challenge Solution (Reentrancy Attack)
 
